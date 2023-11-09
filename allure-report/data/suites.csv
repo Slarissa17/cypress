@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Nov 09 12:12:37 BRT 2023","Thu Nov 09 12:12:46 BRT 2023","8490","","Teste E2E para buscar variantes de um gene","","","","Deve buscar o gene BRCA1",""
-"passed","Thu Nov 09 12:12:46 BRT 2023","Thu Nov 09 12:13:06 BRT 2023","20201","","Teste E2E para buscar variantes de um gene","","","","Verificar a presença de uma variante específica",""
+"passed","Thu Nov 09 12:53:33 BRT 2023","Thu Nov 09 12:53:38 BRT 2023","4827","","Teste E2E para buscar variantes de um gene","","","","Deve buscar o gene BRCA1",""
+"passed","Thu Nov 09 12:53:38 BRT 2023","Thu Nov 09 12:53:57 BRT 2023","19252","","Teste E2E para buscar variantes de um gene","","","","Verificar a presença de uma variante específica",""

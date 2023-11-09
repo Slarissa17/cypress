@@ -13,3 +13,6 @@ Este comando é uma atalho para executar o ciclo completo de teste. Faz a limpez
 ```bash
 npm run test
 ```
+## Dependências
+
+- Cypress: v12.13.0
